@@ -1,0 +1,6 @@
+[book]
+authors = ["sebastinez"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Stanford University / Cryptography 1"
